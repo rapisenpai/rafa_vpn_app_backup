@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976621252695",
+    "project_id": "rafa-vpn-398bc",
+    "storage_bucket": "rafa-vpn-398bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976621252695:android:3f7a701c3d18d24f55b312",
+        "android_client_info": {
+          "package_name": "com.rafa.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976621252695-2t3equ4a8iqdljagm4d82u26si0bputu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5t0HHrhdVMWUuo3DWcqLoJEyW3zoa33o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976621252695-2t3equ4a8iqdljagm4d82u26si0bputu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
